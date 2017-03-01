@@ -1,2 +1,2 @@
 # androidView
-create a branch dev
+reset branch to master ,delete branch dev
