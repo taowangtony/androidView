@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WXMenu">
+        <attr name="radius" format="float"/>
+        <attr name="centerRadius" format="float"/>
+        <attr name="itemRadius" format="float"/>
+        <attr name="circular" format="float"/>
+        <attr name="number" format="integer"/>
+        <attr name="centerDrawable" format="reference"/>
+        <attr name="itemDrawable" format="reference"/>
+
+        <attr name="menu_location">
+            <enum name="center" value="0"/>
+            <enum name="top_left" value="1"/>
+            <enum name="top_right" value="2"/>
+            <enum name="bottom_left" value="3"/>
+            <enum name="bottom_right" value="4"/>
+        </attr>
+
+    </declare-styleable>
+</resources>

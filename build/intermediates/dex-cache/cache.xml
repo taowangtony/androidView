@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_c53179fcef2baaebbdb13308e3c2e4e38800c3e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_7c1bb1b9344f29adc993d31bc7f5bb6f09dcc7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_e01896afab9c28598becbfde9cceb2863b6efb3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_687b3b4d82f3a9b8ce8bfadb9219c71364f63d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c89d5a6e63d68953799c53e67e8b8f4f6e157ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_bf0eb8743c5420e3343c22c5045a26651d0d3b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_c21fd3efd0865f41dde46d0232805b5f9da4e194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_419baf4911826df11419f7c9d91d6f521d6f3d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_2d9066d5fb254134ec172d276eb92116251f47ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangtao/git/View/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/wangtao/git/View/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_9e786e4b3696616eda60573385cdf8cbc2ed76bd.jar" />
+    </item>
+
+</items>
