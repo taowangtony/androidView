@@ -1,40 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
 
-    <!--<com.material.viewapplication.CustomView-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="match_parent"/>-->
 
-    <com.material.viewapplication.WXView
+>
+
+    <com.material.viewapplication.CustomView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    />
+
+    <com.material.viewapplication.FloatButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:centerDrawable="@drawable/logo" >
-        <ImageView
-            android:id="@+id/id_button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerInParent="true"/>
+        android:text="可拖动button"
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:tag="homework" />
+        android:background="#55EC6941"/>
+    <!--<com.material.viewapplication.WXView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:centerDrawable="@drawable/logo" >-->
+        <!--<ImageView-->
+            <!--android:id="@+id/id_button"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_centerInParent="true"/>-->
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:tag="message" />
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:tag="homework" />-->
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:tag="notice" />
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:tag="message" />-->
 
-    </com.material.viewapplication.WXView>
-</LinearLayout>
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:tag="notice" />-->
+
+    <!--</com.material.viewapplication.WXView>-->
+</FrameLayout>

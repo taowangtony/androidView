@@ -25,6 +25,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:tag="notice" />
+        android:tag="notice"
+    />
 
 </com.material.viewapplication.WXView>

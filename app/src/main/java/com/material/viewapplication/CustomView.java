@@ -66,12 +66,12 @@ public class CustomView extends View {
         mArcPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
         mArcPaint.setColor(0x55EC6941);
         textOffsetY = (mTextPaint.ascent() + mTextPaint.descent())/2;
-
-        mBsrPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
-        mBsrPaint.setColor(0x55EC6941);
-        mPath = new Path();
-        porterDuffXfermode = new PorterDuffXfermode(PorterDuff.Mode.SRC_IN);
-        mBitmap = BitmapFactory.decodeResource(getResources(),R.drawable.logo);
+//
+//        mBsrPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
+//        mBsrPaint.setColor(0x55EC6941);
+//        mPath = new Path();
+//        porterDuffXfermode = new PorterDuffXfermode(PorterDuff.Mode.SRC_IN);
+//        mBitmap = BitmapFactory.decodeResource(getResources(),R.drawable.logo);
     }
 
     @Override
@@ -108,15 +108,14 @@ public class CustomView extends View {
         canvas.drawColor(0xFFF29B76);
 
         //draw 贝塞尔
-
-        mPath.moveTo(size-130,140);
-        mPath.cubicTo(size-120,110,size-80,140,size-50,100);
-        mPath.lineTo(size,150);
-        mPath.lineTo(size-400,150);
-        canvas.drawBitmap(mBitmap,size-200,100,paint);
-        paint.setXfermode(porterDuffXfermode);
-        canvas.drawPath(mPath,paint);
-        paint.setXfermode(null);
+//        mPath.moveTo(size-130,140);
+//        mPath.cubicTo(size-120,110,size-80,140,size-50,100);
+//        mPath.lineTo(size,150);
+//        mPath.lineTo(size-400,150);
+//        canvas.drawBitmap(mBitmap,size-200,100,paint);
+//        paint.setXfermode(porterDuffXfermode);
+//        canvas.drawPath(mPath,paint);
+//        paint.setXfermode(null);
 
         canvas.drawCircle(cx, cy, largeCircleRadiu, mPaint);
         canvas.drawText("Luanguge",cx,cy-textOffsetY,mTextPaint);
