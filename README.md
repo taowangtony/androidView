@@ -1,2 +1,2 @@
 # androidView
-view
+local relevance remote
