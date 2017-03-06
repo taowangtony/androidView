@@ -10,18 +10,18 @@
 
 >
 
-    <com.material.viewapplication.CustomView
+    <com.material.ap.view.CustomView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
     />
 
-    <com.material.viewapplication.FloatButton
+    <com.material.ap.view.FloatButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="可拖动button"
 
         android:background="#55EC6941"/>
-    <!--<com.material.viewapplication.WXView-->
+    <!--<WXView-->
         <!--android:layout_width="wrap_content"-->
         <!--android:layout_height="wrap_content"-->
         <!--app:centerDrawable="@drawable/logo" >-->
@@ -46,5 +46,5 @@
             <!--android:layout_height="wrap_content"-->
             <!--android:tag="notice" />-->
 
-    <!--</com.material.viewapplication.WXView>-->
+    <!--</WXView>-->
 </FrameLayout>

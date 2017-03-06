@@ -1,4 +1,4 @@
-<com.material.viewapplication.WXView
+<com.material.ap.view.WXView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:hjy="http://schemas.android.com/apk/res-auto"
     android:id="@+id/customMenuView"
@@ -28,4 +28,4 @@
         android:tag="notice"
     />
 
-</com.material.viewapplication.WXView>
+</com.material.ap.view.WXView>
